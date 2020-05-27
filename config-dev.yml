@@ -1,6 +1,3 @@
 config:
-  info: 
-    name: master
-    version: 1
-    profiles: config-dev
+  info: "master branch,cloud-config/config-dev.yml version=1"
   
